@@ -3,17 +3,16 @@
 [Link to live deploy](https://gonzalogodinez.github.io/refactoring_marketing_agency/)
 
 ## Description
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-What was your motivation?
-Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-What problem does it solve?
-What did you learn?
+As a Developer, I created this project to improve Marketing Visibility and Accessibility to the end user.
+It reorganizes the main tabs of the engine by optimizing the search criteria.
+The unnecessary code was grouped for clarity for future updates.
+The use of headers, footers, navigation, main content, sections, elements, images, and sections was re-enforced on this project.
 
 ## Installation
-GUI bash terminal point using CD into project directory.
-Git clone this repo.
-CD into refactoring_marketing_agency.
-Open using text editor, for VS Code, command 'code .'
+1. GUI bash terminal point using CD into project directory.
+2. Git clone this repo.
+3. CD into refactoring_marketing_agency.
+4. Open using text editor, for VS Code, command 'code .'
 
 ## Usage
 ![Top Section](./assets/images/Screenshots%20Top.png)
